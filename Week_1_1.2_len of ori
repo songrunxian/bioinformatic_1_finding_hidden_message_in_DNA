@@ -1,0 +1,3 @@
+ori = input()
+x = len(ori)
+print(x)
